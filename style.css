@@ -106,16 +106,18 @@ label {
 @media (max-width: 430px) {
     .container {
         width: 90%;
+        height: auto;
         background-image: url("./images/bg-pattern-mobile.svg");
         flex-direction: column;
         margin-top: 150px;
-        margin-bottom: 100px;
+        margin-bottom: 75px;
         background-position-y: 0px;
         background-position-x: center;
     }
 
     .left-part {
         width: 100%;
+        height: auto;
         background-image: url("./images/illustration-woman-online-mobile.svg");
         align-content: center;
         text-align: center;
@@ -132,6 +134,7 @@ label {
 
     .right-part {
         width: 100%;
+        height: auto;
         padding: 20px;
     }
 
