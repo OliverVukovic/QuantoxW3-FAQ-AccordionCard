@@ -97,6 +97,7 @@ label {
     line-height: 18px;
     font-weight: 400;
     height: auto;
+    min-height: 40px;
 }
 
 .arrow {
